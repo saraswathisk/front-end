@@ -1,0 +1,59 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content:center;
+    gap:20px;
+   
+    
+  } 
+
+  .test1{
+    display: flex;
+    gap:10px;
+    
+  }
+  .sample{
+    display:flex;
+    justify-content: end;
+    gap:10px;
+  }
+  .btn{
+    background-color:#bf0d0b;;
+    color: white;
+    padding: 10px;
+    border: none;
+  }
+  .sign-btn{
+    border:none;
+    background-color:transparent;
+  }
+  .main{
+    display: flex;
+    justify-content: space-between;
+  }
+  .container {
+    display: table;
+    width: 50%;
+  }
+  .container div {
+    display: table-cell;
+    width:50%;
+  }
+  .btn1{
+    background-color:black;
+    color: white;
+    padding: 10px;
+    border: none;
+  }
+  .rectbox{
+  width: 50%;
+  padding: 10px;
+  height:250px;
+  border: 2px solid white;
+  border-radius: 4px;
+  
+ 
+  }
